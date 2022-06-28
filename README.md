@@ -17,9 +17,9 @@
   <img src="gif/299R.gif"/ 
   width="30" height="30"> ABOUT ME:
 </h1>
-<p>
+<h3>
   Self-taught programmer.
-</p>
+</h3>
 
 ---
 
