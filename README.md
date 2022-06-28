@@ -51,7 +51,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SeverusVape&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 &nbsp;
-![Sergei's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeverusVape&show_icons=true&theme=tokyonight)
+ <p align="center">
+  <a href="https://github.com/SeverusVape"><img src="https://github-readme-stats.vercel.app/api?username=SeverusVape&show_icons=true&theme=tokyonight" alt="edisonlee55's github stats"></a>
+</p>
+<!-- ![Sergei's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeverusVape&show_icons=true&theme=tokyonight) -->
 
 <!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeverusVape&layout=compact&theme=tokyonight)](https://github.com/SeverusVape/github-readme-stats)
  -->
