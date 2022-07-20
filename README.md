@@ -14,7 +14,7 @@
 
 <h1>
   <img src="gif/4dKv.gif"/ 
-  width="30"> LANGUAGE AND TOOLS:
+  width="30"> LANGUAGES AND TOOLS:
 </h1>
 
 <div align="center">
