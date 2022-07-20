@@ -13,8 +13,7 @@
 
 
 <h2>
-  <img src="gif/4dKv.gif"/ 
-  width="30"> LANGUAGES AND TOOLS:
+  LANGUAGES AND TOOLS:
 </h2>
 
 <div align="center">
@@ -34,8 +33,7 @@
 ---
 
 <h2>
-  <img src="gif/209661.gif" / 
-  width="30" height="33"> MY STATS:
+  MY STATS:
 </h2>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SeverusVape&theme=tokyonight&background=000000)](https://git.io/streak-stats)
