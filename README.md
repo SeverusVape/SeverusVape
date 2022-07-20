@@ -12,10 +12,10 @@
 </div> -->
 
 
-<h3>
+<h2>
   <img src="gif/4dKv.gif"/ 
   width="30"> LANGUAGES AND TOOLS:
-</h3>
+</h2>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
@@ -33,10 +33,10 @@
 
 ---
 
-<h3>
+<h2>
   <img src="gif/209661.gif" / 
   width="30" height="33"> MY STATS:
-</h3>
+</h2>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SeverusVape&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 &nbsp; -->
