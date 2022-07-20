@@ -11,17 +11,6 @@
   width="100">
 </div>
 
----
-
-<!-- <h1>
-  <img src="gif/299R.gif"/ 
-  width="30" height="30"> ABOUT ME:
-</h1>
-<h3>
-  Self-taught programmer.
-</h3> -->
-
----
 
 <h1>
   <img src="gif/4dKv.gif"/ 
