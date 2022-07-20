@@ -3,13 +3,13 @@
   <img src="https://komarev.com/ghpvc/?username=SeverusVape&style=flat-square&color=blue" alt=""/>
 </div> -->
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="gif/michael.gif" / 
   width="150">
   <img src="gif/1_jB76MLZjiNhGSQQvxm7LSQ.gif"/ width="350">
   <img src="gif/WS2c.gif"/ 
   width="100">
-</div>
+</div> -->
 
 
 <h1>
