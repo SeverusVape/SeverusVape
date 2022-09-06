@@ -24,6 +24,8 @@
     <samp>
       [CONTACT ME]
     </samp>
+  </p>
+   <p align="center">
     <a href="https://www.linkedin.com/in/sergei-koshelev-289314153/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
     </a>
