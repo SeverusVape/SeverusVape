@@ -24,10 +24,11 @@
     <samp>
       [CONTACT ME]
     </samp>
+    <a href="https://www.linkedin.com/in/sergei-koshelev-289314153/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+    </a>
   </p>
-  <a href="https://www.linkedin.com/in/sergei-koshelev-289314153/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
-  </a>
+  
   
   <h2></h2><br>
   
