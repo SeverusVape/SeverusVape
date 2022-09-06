@@ -2,7 +2,7 @@
 <div align="justify">
 
 <!-- Profile -->
-  <p align="left"><strong><samp>「</samp></strong></p>
+  <p align="left" style="color: red;"><strong><samp>「</samp></strong></p>
     <p align="center">
       <samp>
         <br>
