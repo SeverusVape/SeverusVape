@@ -68,7 +68,6 @@
       <tr>
         <a href="https://github.com/SeverusVape"><img src="http://github-readme-streak-stats.herokuapp.com?user=SeverusVape&theme=tokyonight&background=000000" alt="edisonlee55's github stats"></a>
       </tr>
-      <tr>
       </tr>
         <a href="https://github.com/SeverusVape"><img src="https://github-readme-stats.vercel.app/api?username=SeverusVape&show_icons=true&theme=tokyonight" alt="edisonlee55's github stats"></a>
       <tr>
