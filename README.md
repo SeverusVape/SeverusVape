@@ -22,11 +22,12 @@
   <!-- Contact Me -->
   <p align="center">
     <samp>
-      [<a  href="https://www.linkedin.com/in/sergei-koshelev-289314153/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
-      </a>]
+      [CONTACT ME]
     </samp>
   </p>
+  <a href="https://www.linkedin.com/in/sergei-koshelev-289314153/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+  </a>
   
   <h2></h2><br>
   
@@ -54,21 +55,21 @@
 
   <p align="center">
     <samp>
-      [STATS]
+      [MY STATS]
     </samp>
   </p>
   
-  <!-- Profile Views Badge -->
-  <p align="center">
-    <a href="https://github.com/SeverusVape"><img src="http://github-readme-streak-stats.herokuapp.com?user=SeverusVape&theme=tokyonight&background=000000" alt="edisonlee55's github stats"></a>
-    <a href="https://github.com/SeverusVape"><img src="https://github-readme-stats.vercel.app/api?username=SeverusVape&show_icons=true&theme=tokyonight" alt="edisonlee55's github stats"></a>
-  </p>
-
   <!-- Github Stats -->
   <div align="center">
     <table>
       <tr>
-      <a href="https://github.com/SeverusVape"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeverusVape&layout=compact&theme=tokyonight" alt="edisonlee55's github stats"></a>
+        <a href="https://github.com/SeverusVape"><img src="http://github-readme-streak-stats.herokuapp.com?user=SeverusVape&theme=tokyonight&background=000000" alt="edisonlee55's github stats"></a>
+      </tr>
+      <tr>
+      </tr>
+        <a href="https://github.com/SeverusVape"><img src="https://github-readme-stats.vercel.app/api?username=SeverusVape&show_icons=true&theme=tokyonight" alt="edisonlee55's github stats"></a>
+      <tr>
+        <a href="https://github.com/SeverusVape"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeverusVape&layout=compact&theme=tokyonight" alt="edisonlee55's github stats"></a>
       </tr>
     </table>
   </div>
